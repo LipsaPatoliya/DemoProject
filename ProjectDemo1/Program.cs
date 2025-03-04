@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("That is First Demo Project For Git to Microsoft Visual Code ");
         }
     }
 }
